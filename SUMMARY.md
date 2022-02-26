@@ -1,11 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* ## 基本数据结构
-    
-    * [HashMap](hashmap.md)
-    * [HashSet](hashset.md)
-    * [LinkedList](linked-list.md)
 * 多线程例子
     * [CAS](cas-li-zi.md)
     * [多线程打印ABC](duo-ge-xian-cheng-xun-huan-da-yin-abc.md)
@@ -70,7 +65,7 @@
     * [63.不同路径II](63.-unique-paths-ii.md)
     * 64.最小路径和
     * [65.有效数字](65.-valid-number.md)
-    * [68.文本左右对齐]()
+    * 68.文本左右对齐
     * [69.x 的平方根](69.-sqrt-x.md)
     * [70.爬楼梯](70.-climbing-stairs.md)
     * [71.简化路径](71.-jian-hua-lu-jing.md)
@@ -104,4 +99,123 @@
     * [112.路径总和](112.path-sum.md)
     * [113.路径总和 II](113.-path-sum-ii.md)
     * [114.二叉树展开为链表](114.-flatten-binary-tree-to-linked-list.md)
-    * # 116.填充每个节点的下一个右侧节点指针
+    * 116.填充每个节点的下一个右侧节点指针
+    * 117.填充每个节点的下一个右侧节点指针 II
+    * [121.买卖股票的最佳时机](121.-best-time-to-buy-and-sell-stock.md)
+    * 122.买卖股票的最佳时机 II
+    * [124.二叉树中的最大路径和](124.-er-cha-shu-zhong-de-zui-da-lu-jing-he.md)
+    * [128.最长连续序列](128.-zui-chang-lian-xu-xu-lie.md)
+    * [130.被围绕的区域](130.-bei-bao-wei-de-qu-yu.md)
+    * 131.分隔回文串
+    * [133.克隆图](133.-ke-long-tu.md)
+    * [134.加油站](134.-gas-station.md)
+    * [135.分发糖果](135.-candy.md)
+    * [141.环形链表](141.-linked-list-cycle.md)
+    * [142.环形链表 II](142.-linked-list-cycle-ii.md)
+    * [143.重排链表](143.-reorder-list.md)
+    * [144.二叉树的前序遍历](144.-binary-tree-preorder-traversal.md)
+    * [145.二叉树的后续遍历](145.-binary-tree-postorder-traversal.md)
+    * [151.反转字符串里的单词](151.-reverse-words-in-a-string.md)
+    * 152.乘积最大子数组
+    * [165.比较版本号](165.-compare-version-numbers.md)
+    * [168.Excel表列名称](168.-excel-sheet-column-title.md)
+    * [171.Excel表列序号](171.-excel-sheet-column-number.md)
+    * [179.最大数](179.-largest-number.md)
+    * [188.买卖股票的最佳时机 IV](188.-best-time-to-buy-and-sell-stock-iv.md)
+    * [190.颠倒二进制位](190.-reverse-bits.md)
+    * [198.打家劫舍](198.-house-robber.md)
+    * [200.岛屿数量](200.-dao-yu-shu-liang.md)
+    * [202.快乐数](202.-happy-number.md)
+    * [203.移除链表元素](203.-remove-linked-list-elements.md)
+    * [206.反转链表](206.-reverse-linked-list.md)
+    * 207.课程表
+    * [209.长度最小的子数组](209.-minimum-size-subarray-sum.md)
+    * 210.课程表 II
+    * [213.打家劫舍 II](213.-house-robber-ii.md)
+    * [221.最大正方形](221.-zui-da-zheng-fang-xing.md)
+    * [226.反转二叉树](226.invert-binary-tree.md)
+    * [233.数字 1 的个数](233.-number-of-digit-one.md)
+    * [235.二叉搜索树的最近公共祖先](235.-lowest-common-ancestor-of-a-binary-search-tree.md)
+    * [240.搜索二维矩阵 II](240.-search-a-2d-matrix-ii.md)
+    * 242.有效的字母异位词
+    * [252.会议室](252.-hui-yi-shi.md)
+    * 253.会议室 II
+    * [256.粉刷房子](256.-paint-house.md)
+    * [257.二叉树的所有路径](257.binary-tree-paths.md)
+    * [261.以图判树](261.-yi-tu-pan-shu.md)
+    * [263.丑数](263.-ugly-number.md)
+    * [265.粉刷房子 II](265.-paint-house-ii.md)
+    * [277.搜寻名人](277.-find-the-celebrity.md)
+    * [280.摆动排序](280.-wiggle-sort.md)
+    * 283.移动零
+    * [300.最长递增子序列](300.-zui-chang-di-zeng-zi-xu-lie.md)
+    * 308.二维区域和检索 - 可变
+    * [309.最佳买卖股票时机含冷冻期](309.-best-time-to-buy-and-sell-stock-with-cooldown.md)
+    * [310.最小高度数](310.-zui-xiao-gao-du-shu.md)
+    * 316.去除重复字母
+    * [323.无向图中连通分量的数目](323.-wu-xiang-tu-zhong-lian-tong-fen-liang-de-shu-mu.md)
+    * [326.3 的幂](326.-power-of-three.md)
+    * [344.反转字符串](344.-reverse-string.md)
+    * [345.反转字符串中的元音字母](345.-reverse-vowels-of-a-string.md)
+    * [346.数据流中的移动平均值](346.-moving-average-from-data-stream.md)
+    * 349.两个数组的交集
+    * 367.有效的完全平方数
+    * 376.摆动序列
+    * [383.赎金信](383.-ransom-note.md)
+    * [394.字符串解码](394.-zi-fu-chuan-jie-ma-red.md)
+    * [402.移掉 K 位数字](402.-yi-diaokwei-shu-zi-red.md)
+    * [406.根据身高重建队列](406.-queue-reconstruction-by-height.md)
+    * [415.字符串相加](415.-add-strings.md)
+    * [435.无重叠区间](435.-non-overlapping-intervals.md)
+    * [452.用最少数量的箭引爆气球](452.-minimum-number-of-arrows-to-burst-balloons.md)
+    * [455.分发饼干](455.-assign-cookies.md)
+    * [463.岛屿的周长](463.-dao-yu-de-zhou-chang.md)
+    * [475.供暖器](475.-gong-nuan-qi-red.md)
+    * [487.最大连续1的个数 II](487.-zui-da-lian-xu-1-de-ge-shu-ii.md)
+    * [509.斐波那契数](509.-fibonacci-number.md)
+    * [543.二叉树的直径](543.-er-cha-shu-de-zhi-jing.md)
+    * [547.省份数量](547.-sheng-fen-shu-liang.md)
+    * [554.砖墙](554.-zhuan-qiang.md)
+    * 589.N 叉树的前序遍历
+    * 590.N 叉树的后续遍历
+    * 622.涉及循环队列
+    * [695.岛屿的最大面积](695.-dao-yu-de-zui-da-mian-ji.md)
+    * 704.二分查找
+    * [705.设计哈希集合](705.-design-hashset.md)
+    * [706.设计哈希映射](706.-design-hashmap.md)
+    * [707.设计链表](707.-design-linked-list.md)
+    * [714.买卖股票的最佳时机含手续费](714.-best-time-to-buy-and-sell-stock-with-transaction-fee.md)
+    * [738.单调递增的数字](738.-monotone-increasing-digits.md)
+    * [739.每日温度](739.-mei-ri-wen-du-yellow.md)
+    * [743.网络延迟时间](743.-wang-luo-yan-chi-shi-jian.md)
+    * [746.使用最小花费爬楼梯](746.-min-cost-climbing-stairs.md)
+    * 763.划分字母区间
+    * 768.最多能完成排序的块 II
+    * [781.森林中的兔子](781.-sen-lin-zhong-de-tu-zi-red.md)
+    * [785.判断二分图](785.-pan-duan-er-fen-tu.md)
+    * [787.K 站中转内最便宜的航班](787.kzhan-zhong-zhuan-nei-zui-bian-yi-de-hang-ban.md)
+    * [797.所有可能的路径](797.-suo-you-ke-neng-de-lu-jing-red.md)
+    * [802.找到最终的安全状态](802.-zhao-dao-zui-zhong-de-zhuang-tai.md)
+    * [820.单词的压缩编码](820.-dan-ci-de-ya-suo-bian-ma.md)
+    * 844.比较含退格的字符串
+    * [847.访问所有节点的最短路径](847.-fang-wen-suo-you-jie-dian-de-zui-duan-lu-jing.md)
+    * [859.亲密字符串](859.-qin-mi-zi-fu-chuan.md)
+    * [860.柠檬水找零](860.-lemonade-change.md)
+    * [886.所有可能的二分法](886.-ke-neng-de-er-fen-fa.md)
+    * [904.水果成篮](904.-fruit-into-baskets.md)
+    * 977.有序数组的平方
+    * [997.找到小镇的法官](997.-zhao-dao-xiao-zhen-de-fa-guan.md)
+    * [1005.K 次取反后最大的数组和](1005.-maximize-sum-of-array-after-k-negations.md)
+    * 1029.两地调度
+    * [1035.不相交的线](1035.-bu-xiang-jiao-de-xian.md)
+    * [1047.删除字符串中的所有相邻重复项](1047.-shan-chu-zi-fu-chuan-zhong-de-suo-you-xiang-lin-zhong-fu-xiang-red.md)
+    * [1109.航班预订统计](1109.-hang-ban-yu-ding-tong-ji-green.md)
+    * 1122.数组的相对排序
+    * [1137.第 N 个泰波那契数](1137.-n-th-tribonacci-number.md)
+    * [1143.最长公共子序列](1143.-zui-chang-gong-gong-zi-xu-lie.md)
+    * 1190.反对每对括号间的字串
+    * [1230.抛掷硬币](1230.-pao-zhi-ying-bi.md)
+    * [1541.平衡括号字符串的最少插入次数](1541.-ping-heng-kuo-hao-zi-fu-chuan-de-zui-xiao-cha-ru-ci-shu.md)
+    * [1746.经过一次操作后的最大数组和](1746.-jing-guo-yi-ci-cao-zuo-hou-de-zui-da-zi-shu-zu-he.md)
+    * 2133.检查是否每一行每一列都包含全部整数
+
