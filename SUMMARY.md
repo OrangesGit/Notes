@@ -7,6 +7,12 @@
     * [多线程按顺序打印数](duo-ge-xian-cheng-an-shun-xu-da-yin-shu-zi.md)
     * [volatile应用](volatile-guan-jian-zi.md)
 * SQL
+* 基本结构
+    * [并查集](bing-cha-ji-disjoint-set.md)
+    * [堆排序](dui-pai-xu-heap-sort.md)
+    * [快速排序](kuai-su-pai-xu-quick-sort.md)
+    * [堆](stack.md)
+
 * 剑指Offer
     * [剑指Offer26](jian-zhi-offer-26.-shu-de-zi-jie-gou.md)
     * [剑指Offer58](jian-zhi-offer-58-ii.-zuo-xuan-zhuan-zi-fu-chuan.md)
@@ -137,7 +143,7 @@
     * [233.数字 1 的个数](233.-number-of-digit-one.md)
     * [235.二叉搜索树的最近公共祖先](235.-lowest-common-ancestor-of-a-binary-search-tree.md)
     * [240.搜索二维矩阵 II](240.-search-a-2d-matrix-ii.md)
-    * 242.有效的字母异位词
+    * [242.有效的字母异位词](242.-valid-anagram.md)
     * [252.会议室](252.-hui-yi-shi.md)
     * 253.会议室 II
     * [256.粉刷房子](256.-paint-house.md)
@@ -178,7 +184,7 @@
     * [554.砖墙](554.-zhuan-qiang.md)
     * 589.N 叉树的前序遍历
     * 590.N 叉树的后续遍历
-    * 622.涉及循环队列
+    * [622.设计循环队列](622.she-ji-xun-huan-dui-lie.md)
     * [695.岛屿的最大面积](695.-dao-yu-de-zui-da-mian-ji.md)
     * 704.二分查找
     * [705.设计哈希集合](705.-design-hashset.md)
