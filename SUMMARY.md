@@ -6,21 +6,22 @@
     * [多线程打印ABC](duo-ge-xian-cheng-xun-huan-da-yin-abc.md)
     * [多线程按顺序打印数](duo-ge-xian-cheng-an-shun-xu-da-yin-shu-zi.md)
     * [volatile应用](volatile-guan-jian-zi.md)
-* 基本结构
-    * [并查集](bing-cha-ji-disjoint-set.md)
+* 排序
     * [堆排序](dui-pai-xu-heap-sort.md)
     * [快速排序](kuai-su-pai-xu-quick-sort.md)
+    * [冒泡排序](mao-pao-pai-xv.md)
+
+* 基本数据结构
+    * [并查集](bing-cha-ji-disjoint-set.md)
     * [堆](stack.md)
     * [HashMap](hashmap.md)
     * [HashSet](hashset.md)
     * [链表](linked-list.md)
-
 * 剑指Offer
     * [剑指Offer5](jian-zhi-offer-05-ti-huan-kong-ge.md)
     * [剑指Offer26](jian-zhi-offer-26.-shu-de-zi-jie-gou.md)
     * [剑指Offer58](jian-zhi-offer-58-ii.-zuo-xuan-zhuan-zi-fu-chuan.md)
     * 
-
 * [八股文](ba-gu.md)
 * 算法题
     * [1.两数之和](1.-liang-shu-zhi-he.md)
@@ -246,5 +247,3 @@
     * [534.游戏玩法分析 III](534.-game-play-analysis-III.md)
     * [550.游戏玩法分析 IV](550.-game-play-analysis-IV.md)
     * [1661.每台机器的进程平均运行时间](1661.-average-time-of-process-per-machine.md)
-
-

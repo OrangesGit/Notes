@@ -1,6 +1,6 @@
 # 快速排序(Quick Sort)
 
-```
+```java
 import java.util.*;
 public class Main{
     public static void main(String[] args){
